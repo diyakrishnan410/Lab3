@@ -1,0 +1,25 @@
+[1.428s] Invoking command in '/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub': PYTHONPATH=/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/build --no-deps symlink_data
+[1.735s] running develop
+[1.973s] running egg_info
+[1.973s] creating metafly_tf_pub.egg-info
+[1.973s] writing metafly_tf_pub.egg-info/PKG-INFO
+[1.975s] writing dependency_links to metafly_tf_pub.egg-info/dependency_links.txt
+[1.975s] writing entry points to metafly_tf_pub.egg-info/entry_points.txt
+[1.976s] writing requirements to metafly_tf_pub.egg-info/requires.txt
+[1.976s] writing top-level names to metafly_tf_pub.egg-info/top_level.txt
+[1.979s] writing manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+[1.983s] reading manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+[1.984s] writing manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+[1.986s] running build_ext
+[1.986s] Creating /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages/metafly-tf-pub.egg-link (link to .)
+[1.988s] Installing metafly_tf_pub script to /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/lib/metafly_tf_pub
+[1.989s] 
+[1.989s] Installed /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub
+[1.989s] running symlink_data
+[1.990s] creating /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/ament_index
+[1.990s] creating /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/ament_index/resource_index
+[1.990s] creating /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/ament_index/resource_index/packages
+[1.991s] symbolically linking /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/resource/metafly_tf_pub -> /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/ament_index/resource_index/packages
+[1.991s] symbolically linking /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/package.xml -> /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/metafly_tf_pub
+[1.991s] symbolically linking /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/resource/mocap_data.csv -> /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/share/metafly_tf_pub
+[2.019s] Invoked command in '/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub' returned '0': PYTHONPATH=/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_tf_pub/build --no-deps symlink_data

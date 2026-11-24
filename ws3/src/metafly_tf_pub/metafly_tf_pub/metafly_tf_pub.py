@@ -3,9 +3,11 @@ from rclpy.node import Node
 from tf2_ros import TransformBroadcaster
 from geometry_msgs.msg import TransformStamped
 import pkg_resources
+from ament_index_python.packages import get_package_share_directory
 from transforms3d.euler import euler2quat
 
 import numpy as np
+import os
 
 class MetaflyTfPublisher(Node):
 

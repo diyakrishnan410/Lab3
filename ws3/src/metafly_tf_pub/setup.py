@@ -14,10 +14,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='ldihel',
-    maintainer_email='logan.dihel@gmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='Diya Krishnan',
+    maintainer_email='krish463@purdue.edu',
+    description='Publisher for Metafly TF Frames',
+    license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [

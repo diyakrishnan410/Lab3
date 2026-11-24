@@ -1,0 +1,16 @@
+[1.475s] Invoking command in '/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description': PYTHONPATH=/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description/build --no-deps symlink_data
+[1.786s] running develop
+[2.027s] running egg_info
+[2.027s] writing metafly_description.egg-info/PKG-INFO
+[2.028s] writing dependency_links to metafly_description.egg-info/dependency_links.txt
+[2.029s] writing entry points to metafly_description.egg-info/entry_points.txt
+[2.029s] writing requirements to metafly_description.egg-info/requires.txt
+[2.030s] writing top-level names to metafly_description.egg-info/top_level.txt
+[2.034s] reading manifest file 'metafly_description.egg-info/SOURCES.txt'
+[2.035s] writing manifest file 'metafly_description.egg-info/SOURCES.txt'
+[2.037s] running build_ext
+[2.037s] Creating /home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_description/lib/python3.10/site-packages/metafly-description.egg-link (link to .)
+[2.039s] 
+[2.039s] Installed /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description
+[2.039s] running symlink_data
+[2.088s] Invoked command in '/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description' returned '0': PYTHONPATH=/home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/min/a/krish463/ece569-fall2026/Lab3/ws3/install/metafly_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/min/a/krish463/ece569-fall2026/Lab3/ws3/build/metafly_description/build --no-deps symlink_data
